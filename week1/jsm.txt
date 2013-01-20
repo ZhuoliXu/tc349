@@ -1,0 +1,11 @@
+Critiques:
+
+This is read-based website, which need users to read lot£¬so I do not suggest the whole background being white, because
+it is easy to lete people who browsing the website getting tired. At least there should be a button for users to choose the background color.
+
+Second, the whole web page updated in blog-style way, which is chronological. Therefore, there should better existed a search engine to let users
+locate the aritcle on exact dates.
+
+The most important thing is that, when I first opened the website, I found it was so hard to find out what does thsi website do.
+The home page should not only displayed what is good in this website, but also should show a clear direction to let people who browsing it knew
+what exactly the website is doing. After I clicked on "About", I started to understand the what is this website doing here. 
