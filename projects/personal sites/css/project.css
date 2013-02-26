@@ -3,6 +3,16 @@ body {
 	background-color: #CCC;
 }
 
+
+footer {
+	background-color:#0F9;
+}
+
+header {
+	background-color:#0F9;
+	padding-left:-10px;
+}
+
 .instr {
 	margin: 0 auto;
 	width: 480px;
@@ -12,7 +22,7 @@ body {
 
 li{
 	display: inline;
-	background-color: #FF0;
+	
 }
 
 table{
