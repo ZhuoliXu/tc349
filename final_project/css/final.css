@@ -1,0 +1,108 @@
+body {
+	margin: 0;
+	
+}
+
+
+footer {
+	background-image:url(../images/footer.jpg);
+	width: 530px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	border-top: solid;
+	border-top-color:#000;
+	margin-top: -55px;
+}
+
+header {
+	margin: 20px 470px 0 470px;
+	padding-left:-10px;
+    
+}
+
+article {
+	margin: 0 470px 0 470px;
+	width: 800px;	
+}
+
+li{
+	display: inline;
+}
+
+
+table{
+	
+}
+
+td {
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+h1 {	
+	width:380px;
+}
+
+h5 {
+	font-style:italic;
+	font-weight:bold;
+}
+
+#temp {
+	background:url(../images/temp.png) no-repeat;
+	height:170px;
+	padding-top:10px;
+}
+
+#pre {
+	background:url(../images/pre.png) no-repeat;
+	height:170px;
+	padding-top:10px;
+}
+
+#wind {
+	background:url(../images/wind.png) no-repeat;
+	height:170px;
+	padding-top:10px;
+}
+
+
+ul {
+	font-family: "Arial Black", Gadget, sans-serif;
+	border-top: solid;
+	border-bottom: solid;
+	border-top-color: #06F;
+	border-bottom-color: #06F;
+	background-color:#6FF;
+	
+}
+
+ol {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#instr {
+	font-family:"Comic Sans MS", cursive;
+}
+
+
+
+a:link {
+	color:#000;
+}
+
+a:hover {	
+	color:#F00;
+}
+
+a:visted {
+	color:#666;
+}
+
+p {
+	padding: 5px;
+	font-family:Tahoma, Geneva, sans-serif;
+	background-color: #3FC;
+	width: 160px;
+	border: groove;
+}
